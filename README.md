@@ -3,6 +3,7 @@
 ### 💼 I am currently looking for work in software and web development
 ### 🔭 I’m currently working on developing my own portfolio website using React.js to host all my projects
 ### 🌱 I’m currently learning all about React.js
+### ⭐ My favourite programming languages are Java, JavaScript and Python
 ### ⚡ Fun fact: Python is named after Monty Python's flying circus
 ### 📫 You can reach me via: e: kemmojr@gmail.com ph: 0421-321-005
 
