@@ -1,11 +1,11 @@
 ### Hi there 👋
 ### 🎓 I am a 3rd yr B. Computer Science student @ UON
-### 💼 I am currently looking for work in software and web development
-### 🔭 I’m currently working on developing my own portfolio website using React.js to host all my projects
-### 🌱 I’m currently learning all about React.js
+### 💼 I am currently working in software and web development
+### 🔭 I’m currently working on developing industry solutions to solve real world problems in my job
+### 🌱 I’m currently learning all about the DotNet framework
 ### ⭐ My favourite programming languages are Java, JavaScript and Python
 ### ⚡ Fun fact: Python is named after Monty Python's flying circus
-### 📫 You can reach me via: e: kemmojr@gmail.com ph: 0421-321-005
+### 📫 You can reach me via: e: kemmojr@gmail.com
 
 <!--
 **kemmojr/kemmojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
