@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🎓 I am a 3rd yr B. Computer Science student @ UON
+### 🎓 I am a final year B. Computer Science student @ UON
 ### 💼 I am currently working in software and web development
 ### 🔭 I’m currently working on developing industry solutions to solve real world problems in my job
 ### 🌱 I’m currently learning all about the DotNet framework
