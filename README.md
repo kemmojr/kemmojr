@@ -3,8 +3,7 @@
 ### 💼 I am currently working in software and web development
 ### 🔭 I’m currently working on developing industry solutions to solve real world problems in my job
 ### 🌱 I’m currently learning all about the DotNet framework
-### ⭐ My favourite programming languages are Java, JavaScript and Python
-### ⚡ Fun fact: Python is named after Monty Python's flying circus
+### ⭐ My favourite programming languages are C#, JavaScript and Python
 ### 📫 You can reach me via: e: kemmojr@gmail.com
 
 <!--
