@@ -1,8 +1,8 @@
 ### Hi there 👋
-### 🎓 I am a final year B. Computer Science student @ UON
-### 💼 I am currently working in software and web development
-### 🔭 I’m currently working on developing industry solutions to solve real world problems in my job
-### 🌱 I’m currently learning all about the DotNet framework
+### 👨‍💻 I am a Graduate Software Engineer with a focus on full stack development 
+### 💼 I am currently professionally engineering software solutions for industry clients
+### 🔭 I’m currently working on updating my practices for creating modular and efficient front-end code. 
+### 🌱 I’m currently learning all about how I can create software to solve day to day problems in my free time
 ### ⭐ My favourite programming languages are C#, JavaScript and Python
 ### 📫 You can reach me via: e: kemmojr@gmail.com
 
