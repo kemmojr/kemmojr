@@ -4,7 +4,8 @@
 ### 🔭 I’m currently working on updating my practices for creating modular and efficient front-end code. 
 ### <img src="./Bootstrap_logo.svg.png" height="25.5" width="32" /> I’m currently learning all about making dynamic Websites that look good on all screens
 ### ⭐ My favourite programming languages are C#, JavaScript and Python
-### 📫 You can reach me via: e: kemmojr@gmail.com
+### 👶 I'm also figuring out how to program my child
+### 📫 You can reach me via: e: timothydkemmis@gmail.com
 
 <!--
 **kemmojr/kemmojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
