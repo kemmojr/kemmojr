@@ -1,11 +1,11 @@
 ### Hi there 👋
-### 👨‍💻 I am a Graduate Software Engineer with a focus on full stack development 
+### 👨‍💻 I am a Graduate Software Engineer with a focus on full-stack development 
 ### 💼 I am currently professionally engineering software solutions for industry clients
-### 🔭 I’m currently working on updating my practices for creating modular and efficient front-end code. 
+### 🔭 I’m currently working on creating an app to utilise the Strava API and visualise and store data 
 ### <img src="./strava-logo-png.png" height="32" width="32" /> I’m currently learning all about building apps with the Strava API
 ### ⭐ My favourite programming languages are C#, JavaScript and Python
 ### 👶 I'm also figuring out how to program my child
-### 📫 You can reach me via: e: timothydkemmis@gmail.com
+### 📫 You can reach me via e: timothydkemmis@gmail.com
 
 <!--
 **kemmojr/kemmojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
