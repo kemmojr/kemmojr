@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 👨‍💻 I am a Graduate Software Engineer with a focus on full-stack development 
 ### 💼 I am currently professionally engineering software solutions for industry clients
-### 🔭 I’m currently working on creating an app to utilise the Strava API and visualise and store data 
+### 🔭 I’m currently working on creating an app to utilise the OAUTH2 to integrate with existing services with modern security standards 
 ### <img src="./strava-logo-png.png" height="32" width="32" /> I’m currently learning all about building apps with the Strava API
 ### ⭐ My favourite programming languages are C#, JavaScript and Python
 ### 👶 I'm also figuring out how to program my child
